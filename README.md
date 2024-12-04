@@ -1,4 +1,4 @@
-# Flask Data Store API
+# Intermediate-HTTP-Flask server
 
 This is a simple Flask application that provides a RESTful API to store, retrieve, update, and delete data using an SQLite database. It also includes rate limiting, API key validation, and caching for improved performance.
 
